@@ -1,0 +1,7 @@
+challenge statement :: Hmm for some reason I can't open this PNG? Any ideas?
+
+after downloading lets check whether its a png image or not, run "file <file_name>" to return file information :: flag.png: JPEG image data, JFIF standard 1.01, resolution (DPI), density 75x75, segment length 16, baseline, precision 8, 909x190, frames 3
+
+so its a "jpeg" image lets rename the image file. run "mv <older_name> <new_name>" then finally run "eog <image_name>"
+
+flag :: picoCTF{extensions_are_a_lie}
