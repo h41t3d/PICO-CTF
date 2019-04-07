@@ -1,0 +1,9 @@
+challenge says :: Can you unzip this "file" for me and retreive the flag?
+
+after download, simply extract the zip file using command "unzip <file_name>".
+this gives a jpg file that can be worked as "eog <image_name>".
+
+flag :: picoCTF{welcome_to_forensics}
+
+
+
