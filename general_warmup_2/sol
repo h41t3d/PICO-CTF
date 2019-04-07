@@ -1,0 +1,5 @@
+challenge statement :: Can you convert the number 27 (base 10) to binary (base 2)?
+
+again let's use golang to do this.. simple fmt.Printf implmentation.
+
+flag :: picoCTF{11011}
