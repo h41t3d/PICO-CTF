@@ -1,0 +1,6 @@
+challenge statement :: If I told you your grade was 0x41 in hexadecimal, what would it be in ASCII?
+
+let's use golang and find the ascii equivalent of 0x41(hex).
+using endoing/hex module.. 
+
+flag :: picoCTF{A}
