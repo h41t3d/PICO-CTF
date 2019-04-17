@@ -1,0 +1,4 @@
+program "run" is given to us and we have to run it so, making copying the same program and making that other one executable
+program "execrun" is executable, to run do ./execrun or make run exec. (chmod +x run) and run ./run 
+
+flag :: picoCTF{welc0m3_t0_r3VeRs1nG}
