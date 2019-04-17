@@ -1,0 +1,4 @@
+for decoding a string that is base64 encoded we can always use the online tools but instead we will use terminal to do the 
+same (linux includes base64 command to decode strings on the go) :: ./thesol.sh 
+
+flag :: picoCTF{th4t_w4s_s1mpL3}
