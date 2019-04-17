@@ -1,0 +1,9 @@
+this challenge can be the simplest challenge we can encounter ctfs like these,, simply visit this link and copy paste the 
+flag in the solution box :: https://2018game.picoctf.com/problems
+
+well, there is also a hard way to do this i.e: curling the website and greping the flag.
+take a look at the script created you'll know.
+
+simply execute the script. (./curlingg.sh or sh curlingg.sh) 
+
+flag :: picoCTF{xiexie_ni_lai_zheli}
